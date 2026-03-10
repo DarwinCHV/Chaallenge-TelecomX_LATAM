@@ -11,6 +11,7 @@ Los resultados permiten diseñar estrategias para **mejorar la retención de cli
 ---
 
 ## Instrucciones para Ejecutar el Notebook
-1.Abrir analisis_ventas.ipynb en Colab .
-2.Cargar los archivos de datos de ventas en el entorno.
-3.Ejecutar las celdas de análisis en orden para reproducir los resultados y gráficos.
+
+1. Abrir **`TelecomX_LATAM.ipynb`** en **Colab** .  
+2. Cargar los archivos de datos de ventas en el entorno.  
+3. Ejecutar las celdas de análisis en orden para reproducir los resultados y gráficos. 
