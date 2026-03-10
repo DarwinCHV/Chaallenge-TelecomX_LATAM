@@ -6,7 +6,19 @@ Los resultados permiten diseñar estrategias para **mejorar la retención de cli
 
 ---
 
-## Instrucciones para Ejecutar el Notebook
+## Ejemplos de gráficos e insights obtenidos
+
+1.**Proporción de cliente con churn**
+
+   ![churn_cliente](./Gráficos/proporcion_churn.png)
+
+2. **Churn según metodo de pago**  
+
+   ![churn_pago](./Gráficos/churn_segun_metodo_pago.png)
+
+3. **Churn vs Tiempo como cliente**  
+
+   ![churn_tiempo](./Gráficos/churn-tiempo.png)
 
 ---
 
