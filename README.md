@@ -10,15 +10,15 @@ Los resultados permiten diseñar estrategias para **mejorar la retención de cli
 
 1.**Proporción de cliente con churn**
 
-   ![churn_cliente](./Gráficos/proporcion_churn.png)
+   ![churn_cliente](./graficos/proporcion_churn.png)
 
 2. **Churn según metodo de pago**  
 
-   ![churn_pago](./Gráficos/churn_segun_metodo_pago.png)
+   ![churn_pago](./graficos/churn_segun_metodo_pago.png)
 
 3. **Churn vs Tiempo como cliente**  
 
-   ![churn_tiempo](./Gráficos/churn-tiempo.png)
+   ![churn_tiempo](./graficos/churn-tiempo.png)
 
 ---
 
